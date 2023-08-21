@@ -1,0 +1,26 @@
+{
+  "name": "dexspyder_v1_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@raydium-io/raydium-sdk": "^1.3.0-beta.18",
+    "@solana/spl-token": "^0.3.7",
+    "@solana/web3.js": "^1.77.2",
+    "axios": "^1.4.0",
+    "bs58": "^5.0.0",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "cli-spinners": "^2.9.0",
+    "hwid": "^0.3.0",
+    "moment": "^2.29.4",
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
+  }
+}
